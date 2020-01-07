@@ -34,7 +34,7 @@
     <scala-version>2.9.1</scala-version>
     <maven-scala-plugin-version>2.15.0</maven-scala-plugin-version>
     <karaf-version>2.2.1</karaf-version>
-    <slf4j-version>1.6.0</slf4j-version>
+    <slf4j-version>1.7.30</slf4j-version>
     <maven-assembly-plugin-version>2.2.1</maven-assembly-plugin-version>
 
     <mqtt-client-version>1.0</mqtt-client-version>
